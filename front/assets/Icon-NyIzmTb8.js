@@ -1,0 +1,1 @@
+import{o as n,c,n as e}from"./index-JO7CLd8n.js";const l={__name:"Icon",props:{name:String,class:String},setup(a){const s=a;return(o,r)=>(n(),c("i",{class:e(["fa","fa-"+s.name+" "+s.class])},null,2))}};export{l as _};

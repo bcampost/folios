@@ -1,0 +1,1 @@
+import{D as o}from"./index-JO7CLd8n.js";const i=e=>{let r=o(e);r=new URLSearchParams(r).toString();let a="https://folios-back.lineaitalia.mx/folios/export";r&&(a+="?"+r),window.open(a,"_blank")};export{i as h};

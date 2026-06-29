@@ -1,0 +1,515 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1779405766135,
+    "data": [
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 478,
+            "hash": "0ecc812ba677a24c041b820051fa9f4208f0aa786d8e539a1c3fb28fcac13a37"
+        },
+        {
+            "type": "file",
+            "name": "logo-iso-negro.png",
+            "size": 6779,
+            "hash": "c30a3d66fd284f5d92f2faf947d4c485af6856e388c9c1ddce3f20e43bc7a2cc"
+        },
+        {
+            "type": "file",
+            "name": "vite.svg",
+            "size": 1497,
+            "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb"
+        },
+        {
+            "type": "file",
+            "name": "assets/ActivityLog-CZgC6EFn.js",
+            "size": 2832,
+            "hash": "7aae4d40ffffb4ec7a4210638736f4b7d1b7c7cce68fb4ec5437cdb9b81434f3"
+        },
+        {
+            "type": "file",
+            "name": "assets/AppLayout-BU8TGYmR.css",
+            "size": 178,
+            "hash": "b2cbbe36d6f9fa88511bbafd2d4ba909ae45bc9d9234f2a1b1039e77714b571d"
+        },
+        {
+            "type": "file",
+            "name": "assets/AppLayout-G9ndbjHF.js",
+            "size": 9340,
+            "hash": "19991ee5d54e3fce2849846a9f11a509f464e10cbc898234debe304222f3a818"
+        },
+        {
+            "type": "file",
+            "name": "assets/Aprobados--wQpCobt.js",
+            "size": 4488,
+            "hash": "c63e08e1501438832ca4508868dc1f019bdf7c697124d1875162760c962dc7fb"
+        },
+        {
+            "type": "file",
+            "name": "assets/Aprobados-BnyV92yw.js",
+            "size": 4803,
+            "hash": "190a0b7e55eb22e2468d1ae347b061019428c0dbdddb804d5ca539701d52845d"
+        },
+        {
+            "type": "file",
+            "name": "assets/AvgTimeTransitionReport-Ds26KEtB.js",
+            "size": 3594,
+            "hash": "16b8d65711a0a62566192e14f01b5e784bc35743216ca38056db189fd86062f1"
+        },
+        {
+            "type": "file",
+            "name": "assets/BoardSection-B8KTnRks.js",
+            "size": 1939,
+            "hash": "a74cf6647cc569721cec9979d3fcc566c1bcf3f1294e61fb31b0e7e24f006ce6"
+        },
+        {
+            "type": "file",
+            "name": "assets/Button-B6JfoBk0.js",
+            "size": 5399,
+            "hash": "ef7c67881f9d98778af4cd675507dc35cd767e67379c3486b6498a28ad99d7a7"
+        },
+        {
+            "type": "file",
+            "name": "assets/Button-BDrswjcM.css",
+            "size": 117,
+            "hash": "079cf35d6f79e6ed8b523c3ec87b7eb5fd759c171f1ef3c4394f002f4e005838"
+        },
+        {
+            "type": "file",
+            "name": "assets/CategoryService-Blu0nFSD.css",
+            "size": 357,
+            "hash": "a1dd1659238b66c1c68d664614ee51d538f24c5841415073bd23d34347984cb9"
+        },
+        {
+            "type": "file",
+            "name": "assets/CategoryService-CYsd5THO.js",
+            "size": 7000,
+            "hash": "ddeaa2efa733d983c49e3f9b93626853beb6e82fc43616251ace79703ba063a9"
+        },
+        {
+            "type": "file",
+            "name": "assets/CostoAsignado-CXbCqWvH.js",
+            "size": 3881,
+            "hash": "f4e94dccf8304accb4f3ef6ad292dfb67c58fb860c4f90613ddfb55a05d740a2"
+        },
+        {
+            "type": "file",
+            "name": "assets/Dashboard-CJBVigKz.js",
+            "size": 129,
+            "hash": "993ce9f65e3b2c4fc8cc8cf886606c1d40a39fdd74e0faa2c1e8743e77e19f73"
+        },
+        {
+            "type": "file",
+            "name": "assets/Dropdown-1ve4wOC6.js",
+            "size": 2517,
+            "hash": "d8b8f664ede8af4dd14ef94ab3a0a0d6dcb1660c2dd0cb181df3d01be2cf4a1a"
+        },
+        {
+            "type": "file",
+            "name": "assets/Dropdown-TnsBh9dM.css",
+            "size": 1046,
+            "hash": "279d82a457cfc8f7fe34ee7c1b0710cf60777239f5db547808b6eb12f0435e70"
+        },
+        {
+            "type": "file",
+            "name": "assets/FolioStateDisplay-iea-9k-7.js",
+            "size": 812,
+            "hash": "8988ea56ac28f3c789b77d5f3ad6b8d63700baaa5374d5c22703e739fd0cc911"
+        },
+        {
+            "type": "file",
+            "name": "assets/FoliosBoard-C3dvMuIa.css",
+            "size": 60,
+            "hash": "74cfebe7b648546413ec4a20b963a8f9860001b5bd940e294f10f587ff108ce9"
+        },
+        {
+            "type": "file",
+            "name": "assets/FoliosBoard-oxfLVpfX.js",
+            "size": 4191,
+            "hash": "9a6d32c9f815fdffc30e67748f89a833f9a7063bce34b8e803474249396cc115"
+        },
+        {
+            "type": "file",
+            "name": "assets/Icon-NyIzmTb8.js",
+            "size": 218,
+            "hash": "f96720ecad84ba1546def9ae5f645e44d2a04182b16d5a02fa299f0c5c2aa942"
+        },
+        {
+            "type": "file",
+            "name": "assets/LIMITES-DE-PREVIOS-POR-TIPO-z9quQlWn.jpg",
+            "size": 728899,
+            "hash": "c74be7eb823fa0a8f6f353ceb3b19ac92c34c1dde65045ab83b342ca91e70c10"
+        },
+        {
+            "type": "file",
+            "name": "assets/LiberadosParaFacturar-Cf1lwBeJ.js",
+            "size": 4463,
+            "hash": "895b6e3ee13004f8ff1343dcc3fb88745f90532eb388137a015a5531811638b9"
+        },
+        {
+            "type": "file",
+            "name": "assets/LiberadosParaProduccion-DLrRnjBb.js",
+            "size": 4473,
+            "hash": "564487314243ca4f67d2984c9ed93eca336c20873f0eb086e804bad7a43ae767"
+        },
+        {
+            "type": "file",
+            "name": "assets/Main-BIKmAJ-S.js",
+            "size": 3512,
+            "hash": "35d3a552212a1388e47bebe898d44845d3567998270e9b724ee6ae821c34c452"
+        },
+        {
+            "type": "file",
+            "name": "assets/Main-BcusTTsb.js",
+            "size": 1800,
+            "hash": "873467a025c50a862a1cef92ec1b53abf7367854d768d6d82e15664fa57af41c"
+        },
+        {
+            "type": "file",
+            "name": "assets/Main-vte-HgUk.js",
+            "size": 3540,
+            "hash": "6f49fc58ad71ebe9c57822b218976d02e5b805aa5555c072295b5d67396c0cc7"
+        },
+        {
+            "type": "file",
+            "name": "assets/MedidasShowcase-BMe4efKV.css",
+            "size": 348,
+            "hash": "39e9c28494aa778a1535728b7dba1aab20be213d9f77e3a2822e9b734a5749b3"
+        },
+        {
+            "type": "file",
+            "name": "assets/MedidasShowcase-hZgdT6SL.js",
+            "size": 8592,
+            "hash": "3c815248605a5d512b09e8f5e18c1d73dc817d5afce3727ab1cb0d8cba2f1a14"
+        },
+        {
+            "type": "file",
+            "name": "assets/ModelService-CCoViTW9.js",
+            "size": 4818,
+            "hash": "c8e36dde7e81e8416e4ad8eddd322dd57df33f418edd697e2e0db6d5c4774e80"
+        },
+        {
+            "type": "file",
+            "name": "assets/ModelService-Dc1dbd9J.css",
+            "size": 145,
+            "hash": "726e4fd01c4ddc0fd5dc66ae0cd2766f4f7889371718c7d0336824dad95a5160"
+        },
+        {
+            "type": "file",
+            "name": "assets/MuebleMedidas-B-cyOpJp.css",
+            "size": 498,
+            "hash": "b8a3082c62f3da0b23128d888956ab7efb00a60d6f8868f298eeca890de2822d"
+        },
+        {
+            "type": "file",
+            "name": "assets/MuebleMedidas.vue_vue_type_style_index_0_scoped_00ab8f58_lang-DZcv1b2o.js",
+            "size": 388,
+            "hash": "01ab4c2bf64fdb51d8ec70c4c790a1cdbde44fb6a78efddff16eb4a83154b6f6"
+        },
+        {
+            "type": "file",
+            "name": "assets/NotFound-DW2z3AY6.js",
+            "size": 584,
+            "hash": "ce809b835bd7456ae0ed1f0503a9567724479cf71d89303e0b1851cfcf131593"
+        },
+        {
+            "type": "file",
+            "name": "assets/Panel-BMJ0nNUB.js",
+            "size": 933,
+            "hash": "a544b33e5f8a7c2aaffce948d70881ec6e2e6207e12ffbd57e5cd92e7cd9a729"
+        },
+        {
+            "type": "file",
+            "name": "assets/PrecioListaAsignado-VBV47gjv.js",
+            "size": 4008,
+            "hash": "beb8e4f989e138f9d65aa7c854a1378f737d0d224c37a67f64b0c90e71608d1e"
+        },
+        {
+            "type": "file",
+            "name": "assets/PreviosBoard-CDqlgG6y.css",
+            "size": 60,
+            "hash": "fd40965070a04639968e189666f25cb36b098ecba6240923d54d79454fe355d9"
+        },
+        {
+            "type": "file",
+            "name": "assets/PreviosBoard-Dupw7M6S.js",
+            "size": 4071,
+            "hash": "1f26880d6bc187a2f199ade0bb8a7a42cacc230a850389e5d9fb0a9fa48bb8fe"
+        },
+        {
+            "type": "file",
+            "name": "assets/Profile-C78NPdv8.js",
+            "size": 171,
+            "hash": "bc441bc817af32805f110fa814505964baea9e953aab7494802a42b4b016b7c9"
+        },
+        {
+            "type": "file",
+            "name": "assets/Rechazados-BRki0fjs.js",
+            "size": 4322,
+            "hash": "384360392d27649d5598a77a01815d1345eb521bac2d3b92330a4f5367c7558b"
+        },
+        {
+            "type": "file",
+            "name": "assets/Rechazados-CiEqg_8g.js",
+            "size": 3974,
+            "hash": "f33844c4a88ee395766a852c120043f2954e91eb452cc9f9f57afc3492f2e9d2"
+        },
+        {
+            "type": "file",
+            "name": "assets/RequestPrevio-D89SRex5.js",
+            "size": 42099,
+            "hash": "d3dd0ad97e54e573ff815613606b3147cd43ee43454ea808012963c88812600f"
+        },
+        {
+            "type": "file",
+            "name": "assets/RequestPrevio-y_1rFgoy.css",
+            "size": 68,
+            "hash": "d2b1258a8d38712dde409930f027e976ea2c8555c288a8763dc313acc24954f5"
+        },
+        {
+            "type": "file",
+            "name": "assets/ShowPrevio-CvfQQ9Qw.css",
+            "size": 518,
+            "hash": "fb243ffcee414b19aff626327770c8b2a6db2b0a02f4c5ad7bae9b3a87d45d5c"
+        },
+        {
+            "type": "file",
+            "name": "assets/ShowPrevio-DT9_Mp0I.js",
+            "size": 47019,
+            "hash": "56b7f6fe120632a1ccb9a223f23010d7cc4f56469e51b1664fe10fecb077de4e"
+        },
+        {
+            "type": "file",
+            "name": "assets/Solicitados-Dd-bF3y3.js",
+            "size": 4311,
+            "hash": "c20ee792d638b942f4d17bd08b3373c69893849042f5cb31daa6b5a16d8077b8"
+        },
+        {
+            "type": "file",
+            "name": "assets/Solicitados-IrA19JmM.js",
+            "size": 3901,
+            "hash": "2046d421b54b2fc341742cb5ff6c73203025935ea4f92c577c5d9e5d933f0e4b"
+        },
+        {
+            "type": "file",
+            "name": "assets/SsoCallback-C4acADFW.js",
+            "size": 1822,
+            "hash": "5edf490f77eecd822393ef73e9fc1abea50f9b3a91273898cc7d7f282e2e5889"
+        },
+        {
+            "type": "file",
+            "name": "assets/Table-2B6p_WXR.css",
+            "size": 505,
+            "hash": "c1bd16097c71ec0456f1ba942e7adbef38875cee9e3686d6a9d2b26004a2b6c3"
+        },
+        {
+            "type": "file",
+            "name": "assets/Table-Ctgs_aHW.js",
+            "size": 18126,
+            "hash": "c6341a97e478cca7102924e5e26c2e5bb8e0dd8a1c0fdf750e1910f886435e15"
+        },
+        {
+            "type": "file",
+            "name": "assets/TextInput-Cju968EU.js",
+            "size": 2994,
+            "hash": "2afa3200e29544400421c4ecd76bca15c09b3a2ef484e9b8186ebe52e2c90d8c"
+        },
+        {
+            "type": "file",
+            "name": "assets/Todos-CJp-uy_d.js",
+            "size": 4997,
+            "hash": "7b57e55cc53377d35e02d7dfd3baeb7a81c765c98618b2a191ce89d4ea14eb98"
+        },
+        {
+            "type": "file",
+            "name": "assets/Todos-DrqLlhcp.js",
+            "size": 3550,
+            "hash": "ebc1052ef8229eb8f9d0dfa2f2ec4e772df2472f2edb5881221bd4e53d56bc2e"
+        },
+        {
+            "type": "file",
+            "name": "assets/archiveros-DnnvDdPa.png",
+            "size": 77625,
+            "hash": "41159395b9117b35e1cf41a5d4ab673743521989fe2c1acf4267424e4d79c50a"
+        },
+        {
+            "type": "file",
+            "name": "assets/armario-D0ZLz48q.png",
+            "size": 17624,
+            "hash": "c383ff7d5deaae6c01bd919ae71a5ae52fc260fcee3c2212a74b5f350b781f1a"
+        },
+        {
+            "type": "file",
+            "name": "assets/asientos-y3ZRXROR.png",
+            "size": 20815,
+            "hash": "8b84ac6a39a2bc6f85712311a2a6c08a027705578c701e85db9dcdea939887e6"
+        },
+        {
+            "type": "file",
+            "name": "assets/credenzas-DlrzROuY.png",
+            "size": 49961,
+            "hash": "ee3bb99f20e8af7757c49fa12f2e03fdb4e2701bf9646f3580fe94fae9780373"
+        },
+        {
+            "type": "file",
+            "name": "assets/date-M1R7FWJo.js",
+            "size": 1533,
+            "hash": "004ae2d0984a3055840ab5525486f527ff98d7dccf01b4093263ef185b9b2282"
+        },
+        {
+            "type": "file",
+            "name": "assets/dayjs.min-DLDJPTYX.js",
+            "size": 7109,
+            "hash": "b93e877147c47177a94a36dade0eaafa15767d9a13d7626012d8da735404b650"
+        },
+        {
+            "type": "file",
+            "name": "assets/escritorios-Kn5gOuJb.png",
+            "size": 39414,
+            "hash": "0be756991f8a1042661281f2e98fe1829bdb0fe2b817278bc84b6e1421d485c3"
+        },
+        {
+            "type": "file",
+            "name": "assets/folio-B35fiymm.js",
+            "size": 211,
+            "hash": "452eba09a5c9bc6bc74314ae2d33f0eb6371326abf6d41a9430cbd1a59d28803"
+        },
+        {
+            "type": "file",
+            "name": "assets/folio-BoyHKqcz.js",
+            "size": 1557,
+            "hash": "4a011b9aa4f12f8ddf6614ce7e920939955372fa58a4319e234466735ceb5fcc"
+        },
+        {
+            "type": "file",
+            "name": "assets/forkawesome-webfont-B6QuiE8U.woff",
+            "size": 136120,
+            "hash": "006708d6691753cfc46eec2dae88fbdafa22823a89194149d9f223050dc78998"
+        },
+        {
+            "type": "file",
+            "name": "assets/forkawesome-webfont-BLy9oJHT.ttf",
+            "size": 219004,
+            "hash": "4f319287827e35f841069eb471c092eccf97d2f7830aa4d8bd7301ded418bf49"
+        },
+        {
+            "type": "file",
+            "name": "assets/forkawesome-webfont-C2mtkTBe.eot",
+            "size": 219194,
+            "hash": "62c52951be321c21d87dbf076af0d199f6e8d51e27e6eddf80bd4d5b737497d0"
+        },
+        {
+            "type": "file",
+            "name": "assets/forkawesome-webfont-CwOtN5Ng.woff2",
+            "size": 109916,
+            "hash": "8810ba3440bf482ced33d2f74b7803bba711f689d8e4caa7da5c6ae6844a1b49"
+        },
+        {
+            "type": "file",
+            "name": "assets/forkawesome-webfont-D6mqmHNB.svg",
+            "size": 560551,
+            "hash": "d491dbcb3248d003412deafab505433d2e09d59a1dd748fcf7c6dbd7b38e0816"
+        },
+        {
+            "type": "file",
+            "name": "assets/index-BGevwd0E.js",
+            "size": 712,
+            "hash": "113d044fe28e3d30c0c2537a82f0c18a86b86d98b5e8b554d2bf3cbb1d1d733d"
+        },
+        {
+            "type": "file",
+            "name": "assets/index-BjRVXICi.css",
+            "size": 93325,
+            "hash": "6f487dc0ab62fa8a8dc99c954a26f7da61adb1c47aa71dc7172ec9ea81d56f68"
+        },
+        {
+            "type": "file",
+            "name": "assets/index-JO7CLd8n.js",
+            "size": 317139,
+            "hash": "06e1c764622cd379f588cc77236d06a6dc8eaeaeaeefdec611f1eb51238b8be0"
+        },
+        {
+            "type": "file",
+            "name": "assets/libreros-D4ZOt25S.png",
+            "size": 104862,
+            "hash": "669088e62e82802d1830d16aa1201877c6b7afabd38a7d2a38475f569e402118"
+        },
+        {
+            "type": "file",
+            "name": "assets/lodash-BFO5XfWM.js",
+            "size": 71998,
+            "hash": "ab09c28e66d799b6890fbc79238b79c54d1d7488b51694ecf3efb3a2aae1bf31"
+        },
+        {
+            "type": "file",
+            "name": "assets/logocompletonegro-BzTl1wlF.png",
+            "size": 50956,
+            "hash": "dba6917d6682d903a85ffd3bebcd6d773aa3476000eb22894d25de15dbca8891"
+        },
+        {
+            "type": "file",
+            "name": "assets/mampara-CZHZqTSz.png",
+            "size": 43309,
+            "hash": "19f126e289223145965fbf60973589c1c3cd043f2b2b3b079956b836a3ec2512"
+        },
+        {
+            "type": "file",
+            "name": "assets/medidas-referencia-DpC_EUnf.jpg",
+            "size": 22125,
+            "hash": "d986b7a59c6c2550722bc6de02ae42f38b4b712efa9b4bc84f0e66039f934e2f"
+        },
+        {
+            "type": "file",
+            "name": "assets/mesas-ruMWYXyt.jpg",
+            "size": 14803,
+            "hash": "9db17f7cd8e0ee78eb37b83757ba46c5bc673dacb385911e48bc4e7bfe425ec9"
+        },
+        {
+            "type": "file",
+            "name": "assets/money-CVjR664d.js",
+            "size": 103,
+            "hash": "8d78f100c69a403ab77c0bcbf3541c01656d40ab07a74085f2d60e239c90a3d5"
+        },
+        {
+            "type": "file",
+            "name": "assets/permissions-C5ebqBxD.js",
+            "size": 114,
+            "hash": "bf81394cfcc300d516925f73d698aa4ab21b3b5d07c5f1378e7d74b88450c559"
+        },
+        {
+            "type": "file",
+            "name": "assets/previo-BeEm7tTM.js",
+            "size": 2005,
+            "hash": "a6190e90c50da2dfde7d828a41f67304c44e5b8e942a30d80f8393d5da0dc0da"
+        },
+        {
+            "type": "file",
+            "name": "assets/previo-CBFt57vw.js",
+            "size": 150,
+            "hash": "dd2885a50b78f6702fa777b3856f9c9045bf9633323d7b60460687361a2352bc"
+        },
+        {
+            "type": "file",
+            "name": "assets/recepciones-D6gHpQNa.png",
+            "size": 46954,
+            "hash": "4f7f462f4e06833d68f60fdfa37702241a2b6164c1a20658cb27d4bbefd69d2b"
+        },
+        {
+            "type": "file",
+            "name": "assets/toast-DIxZ-MxC.js",
+            "size": 4595,
+            "hash": "89fb460b33b50dc8a0c9dd59f788a7508d6a10b13a464b67320bdb849f66f24f"
+        },
+        {
+            "type": "file",
+            "name": "assets/useStateManager-jiGONYxx.js",
+            "size": 20423,
+            "hash": "06b4a0c67b1c8a2fdc95cd5dde8872fb59f952e9924812452d099025bbf973bf"
+        }
+    ]
+}
